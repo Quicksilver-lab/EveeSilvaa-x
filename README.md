@@ -1,6 +1,6 @@
 # hello! I’m Maria evellyn
 
-- 👩🏻‍💻 I am a " Análise e Desenvolvimento de sistemas" student (analysis and systems developement)
+- 👩🏻‍💻 I am a Análise e Desenvolvimento de sistemas student and love programing games 
 - 💻 I’m currently learning to progam in python, I´m creating two projects with different programming languages trying to improve my skills...
 - 😄 I go by she/her pronouns.
 - 🫰🏼 I´m brazilian girl!
