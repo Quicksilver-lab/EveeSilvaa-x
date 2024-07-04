@@ -17,13 +17,10 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evellynmaria593@gmail.com)
 
-
 ### GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EveeSilvaa&layout=compact)](https://github.com/EveeSilvaa/github-readme-stats ).
 
 ### thank you and I hope you like my projects and give me tips 💙
 
