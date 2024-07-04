@@ -1,9 +1,9 @@
 # hello! I’m Maria evellyn 👾
 
--  I am a Análise and Desenvolvimento sistemas student and love programing games. 👩🏻‍💻
+-  I am a Análise e Desenvolvimento sistemas student.. 👩🏻‍💻
 -  I’m currently learning to progam in python, I´m creating two projects with different programming languages trying to improve my skills...💻
 -  I go by she/her pronouns.✨
--  I´m brazilian girl!👋🏻
+-  I´m brazilian girl!✌️
 
  ![WhatsApp Image 2024-06-18 at 22 05 19](https://github.com/EveeSilvaa/EveeSilvaa/assets/134736070/c0c0719f-a81e-4569-8ec1-220f6e81b5ea)
 
