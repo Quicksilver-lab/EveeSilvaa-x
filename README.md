@@ -13,14 +13,6 @@
  <IMG SRC="gif1.gif" class="animated-gif" width="230" height="230"/> 
  <IMG SRC="gif2.gif" class="animated-gif" width="230" height="230"/> 
 
-### Where to find me 📱
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evellynmaria593@gmail.com)
-
-### GitHub Stats 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EveeSilvaa&layout=compact)](https://github.com/EveeSilvaa/github-readme-stats ).
 
 ### thank you and I hope you like my projects and give me tips 💙
 
