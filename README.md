@@ -29,8 +29,8 @@
 ### 🔥 Skills:
 ---
 
-![C#](https://img.shields.io/badge/C#-000?style=for-the-badge&logo=C#)
 ![JavaScript](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=javaScript)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
 
 --->
