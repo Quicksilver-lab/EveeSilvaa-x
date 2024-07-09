@@ -1,9 +1,9 @@
-# hello! I’m Maria evellyn 👾
+# hello! I’m Maria evellyn 👩🏻‍💻 
 
--  I am a Análise e Desenvolvimento sistemas student.. 👩🏻‍💻
--  I´m creating two projects...💻
--  I go by she/her pronouns.✨
--  I´m brazilian girl!✌️
+-  👾 I am a Análise e Desenvolvimento sistemas student.. 
+-  💻 I also intend to study "Ciência da Computação" (Computer Science)
+-  ✨ I go by she/her pronouns.
+-  ✌️ I´m brazilian girl!
 
 
 
@@ -16,14 +16,15 @@
 ---
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evellynmaria593@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/evellyn-silva/)
+[![Dio.me](https://img.shields.io/badge/-Dio.me-000?style=for-the-badge&logo=Dio.me&logoColor=30A3DC)](https://www.dio.me/users/evellynmaria593/)
 
-### Statistics 📈
+
+
+### *Statistics 📈*
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&theme=gruvbox&show_icons=true&include_all_commits=true&custom_title=EveeSilvaa)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeSilvaa&theme=gruvbox&layout=donut)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeSilvaa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EveeSilvaa&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EveeSilvaa&theme=gruvbox)
 
 
 ### 🔥 Skills:
