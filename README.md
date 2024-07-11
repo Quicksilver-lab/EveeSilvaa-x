@@ -2,7 +2,6 @@
 
 -  👾 I am a Análise e Desenvolvimento sistemas student.. 
 -  💻 I also intend to study "Ciência da Computação" (Computer Science)
--  ✨ I go by she/her pronouns.
 -  ✌️ I´m brazilian girl!
 
 
@@ -33,5 +32,6 @@
 ![JavaScript](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=javaScript)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 --->
