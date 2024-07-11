@@ -8,8 +8,8 @@
 
 
 <div style="display: flex;">
-  <img src="https://github.com/EveeSilvaa/EveeSilvaa/assets/134736070/c0c0719f-a81e-4569-8ec1-220f6e81b5ea" alt="Gif 1" style="width: 25%;">
-  <img src="https://github.com/EveeSilvaa/EveeSilvaa/assets/134736070/226cfe75-94f0-40ae-a888-2c902e8b98f7" alt="Gif 2" style="width: 25%;">
+  <img src="https://github.com/EveeSilvaa/EveeSilvaa/assets/134736070/c0c0719f-a81e-4569-8ec1-220f6e81b5ea" alt="Gif 1" style="width: 30%;">
+  <img src="https://github.com/EveeSilvaa/EveeSilvaa/assets/134736070/226cfe75-94f0-40ae-a888-2c902e8b98f7" alt="Gif 2" style="width: 30%;">
 </div><br/>
 
  ### My contacts ☎️
