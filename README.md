@@ -22,16 +22,26 @@
 <!-- Status -->
 ## 📊 GitHub Stats: 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&theme=gruvbox&show_icons=true&include_all_commits=true&custom_title=EveeSilvaa)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeSilvaa&theme=gruvbox&layout=donut)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&theme=gruvbox&show_icons=true&include_all_commits=true&custom_title=EveeSilvaa) 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeSilvaa&theme=gruvbox&layout=donut)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EveeSilvaa&theme=gruvbox)
 
-## 🔥 Skills:
 
-![JavaScript](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=javaScript)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  <img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
+<!-- skills -->
+---
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Skills:
+
+<img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"><img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"><img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
+
+<!-- platarform -->
+---
+### Tools and Platforms
+<p>
+  <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
+  <img alt="Github" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg">
+  <img alt="Vscode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
+</p>
+
 
 
 
