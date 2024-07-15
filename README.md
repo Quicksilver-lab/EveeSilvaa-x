@@ -23,7 +23,6 @@
 ## 📊 GitHub Stats: 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&theme=gruvbox&show_icons=true&include_all_commits=true&custom_title=EveeSilvaa)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeSilvaa&theme=gruvbox&layout=donut)
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EveeSilvaa&theme=gruvbox)
 
 ## 🔥 Skills:
@@ -32,7 +31,7 @@
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+  <img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
 
 
 
