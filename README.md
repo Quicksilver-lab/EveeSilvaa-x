@@ -5,14 +5,13 @@
 
 -  👾 I am a Análise e Desenvolvimento sistemas student.. 
 -  💻 I also intend to study "Ciência da Computação" (Computer Science)
--  ✌️ I´m brazilian girl!
 
 <div style="display: flex;">
   <img src="https://github.com/EveeSilvaa/EveeSilvaa/assets/134736070/c0c0719f-a81e-4569-8ec1-220f6e81b5ea" alt="Gif 1" style="width: 40%;">
   <img src="https://github.com/EveeSilvaa/EveeSilvaa/assets/134736070/226cfe75-94f0-40ae-a888-2c902e8b98f7" alt="Gif 2" style="width: 40%;">
 </div><br/>
 
- ### My contacts ☎️
+ ### Where to find me ☎️
 ---
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](e-mailto:evellynsilvadeveloper@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/maria-evellyn-silva-738631226/)
