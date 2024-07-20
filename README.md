@@ -12,7 +12,7 @@
 ## 📊 GitHub Stats: 
 ---
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EveeSilvaa&theme=gruvbox)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&theme=gruvbox&show_icons=true&include_all_commits=true&custom_title=EveeSilvaa)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeSilvaa&theme=gruvbox&layout=donut)
 
  ### Where to find me ☎️
