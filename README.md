@@ -1,7 +1,11 @@
 <!-- Header -->
-<h1 align="center">
+<div align="center">
+  
+<h1>
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%91%BE+Welcome+to+my+GitHub!;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I+Evee+Silvaa!+;" alt="Typing SVG" />
 </h1>
+
+</div>
 
 <div align="center" style="display: flex; justify-content: center;">
   <img src="https://github.com/EveeSilvaa/EveeSilvaa/assets/134736070/c0c0719f-a81e-4569-8ec1-220f6e81b5ea" alt="Gif 1" style="width: 30%; margin: 10px;">
@@ -17,13 +21,13 @@
 
 ### Where to find me ☎️
 ---
-<p align="center">
+<div align="center"> 
   
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evellynsilvadeveloper@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/maria-evellyn-silva-738631226/)
 [![Dio.me](https://img.shields.io/badge/-Dio.me-000?style=for-the-badge&logo=Dio.me&logoColor=30A3DC)](https://www.dio.me/users/evellyndev593/)
 
-</p>
+</div>
 
 <!-- Skills -->
 ---
