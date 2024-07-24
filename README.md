@@ -15,9 +15,6 @@
 
 - 💬 Ask me about **Spring, Angular, CyberSecurity, Devops,...**
 
-- 📫 How to reach me
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evellynsilvadeveloper@gmail.com)
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
