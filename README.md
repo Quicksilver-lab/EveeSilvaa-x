@@ -9,13 +9,14 @@
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
 <h3 align="center">I'm a Full-stack Developer with experience in building robust and scalable web applications using various technologies. My passion for programming and solving complex problems drives me to constantly learn and explore new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamiiira&label=Profile%20views&color=0e75b6&style=flat" alt="aamiiira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
 
 - 🌱 I’m currently learning **Kubernetes, AWS**
 
 - 💬 Ask me about **Spring, Angular, CyberSecurity, Devops,...**
 
-- 📫 How to reach me **evellynsilvadeveloper@gmail.com**
+- 📫 How to reach me
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evellynsilvadeveloper@gmail.com)
 
 - ⚡ Fun fact **I am Funny**
 
@@ -35,7 +36,7 @@
   <img alt="VSCode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
 </p>
 
-
+## 📊 GitHub Stats: 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EveeSilvaa&show_icons=true&locale=en&layout=compact" alt="EveeSilvaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&locale=en" alt="EveeSilvaa" /></p>
